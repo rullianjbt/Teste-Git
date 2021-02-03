@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Program {
 
 	public static void main(String[] args) {
+		System.out.println("TESTANDO COMMIT NO GIT");
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
 		Locale.setDefault(Locale.US);
